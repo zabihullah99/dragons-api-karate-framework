@@ -1,4 +1,3 @@
-@Regression
 Feature: get Plan code
 
   Background: Setup Test Generate Token
